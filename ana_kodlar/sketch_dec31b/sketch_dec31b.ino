@@ -34,7 +34,7 @@ const float istenmiyensicaklikDegeri = 25.0;//kaç derece üstüne çıkılır i
 unsigned long eskiZaman=0;
 unsigned long yeniZaman;
 //sicaklikDurumbilgilendirmeTanimlanmasi
-bool sicaklikDurum = true; // eğer sıcaklık normal ise true sıcaklık fazla ise false 
+bool sicaklikDurum = true; // eğer sıcaklık normal ise false sıcaklık fazla ise true 
 
 void setup() {
   //pinmode tanımlamaları
