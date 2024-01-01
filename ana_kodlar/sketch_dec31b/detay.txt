@@ -1,0 +1,16 @@
+lm35 deki kırmızı kablo (1.pin) vcc (5v)
+lm35 deki kahverengi kablo(2.pin) analog out (a1 e bağlı
+lm35 deki turuncu kablo(3.pin) ground(gnd)
+
+
+bread board a1 gnd
+bread board a3 5v
+
+breadboard dan gelen siyah kablo gnd ye bağlı(analog pinlere yakın olan)
+breadboard dan gelen mavi kablo 5v ye bağlı
+
+
+
+
+
+
