@@ -1,6 +1,6 @@
 # MikroDenetleyiclerOdevi Project
 ## What About
-about of the project is  microcontroller homework which is "engine temperature check with lm35"
+this project is  microcontroller homework which is "engine temperature check with lm35"
 ## Where is the main codes?
  [Here](https://github.com/fatihemregit/mikroDenetleyicilerOdevi/blob/master/ana_kodlar/sketch_dec31b/sketch_dec31b.ino)
 ## Used
