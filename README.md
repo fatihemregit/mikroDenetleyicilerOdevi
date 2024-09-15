@@ -4,7 +4,14 @@ about of the project is  microcontroller homework
 microcontroller homework is "engine temperature check with lm35"
 ## Used
 ### Programming Concepts
-+ using arduino function([millis()](https://www.arduino.cc/reference/en/language/functions/time/millis/),analogWrite(),analogRead(),digitalWrite(),pinMode(),delay())
++ using arduino function
+   +<a href="" target="_blank"></a>
+   + <a href="https://www.arduino.cc/reference/en/language/functions/time/millis/" target="_blank">millis()</a>,
+   + analogWrite(),
+   + analogRead(),
+   + digitalWrite(),
+   + pinMode(),
+   + delay()
 + writing a custom function
 + using LiquidCrystal_I2C library
 + using primitive values(for this project:const,bool,int,float,unsigned long)
