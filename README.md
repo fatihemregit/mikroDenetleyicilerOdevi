@@ -1,20 +1,20 @@
 # MikroDenetleyiclerOdevi Project
 ## What About
-this project is  microcontroller homework which is "engine temperature check with lm35"
+This project is  microcontroller homework which is "engine temperature check with lm35"
 ## Where is the main codes?
  [Here](https://github.com/fatihemregit/mikroDenetleyicilerOdevi/blob/master/ana_kodlar/sketch_dec31b/sketch_dec31b.ino)
 ## Used
 ### Programming Concepts
-+ used arduino function
++ Used arduino function
    + [millis()](https://www.arduino.cc/reference/en/language/functions/time/millis/),
    + [analogWrite()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/),
    + [analogRead()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/),
    + [digitalWrite](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/),
    + [pinMode](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/),
    + [delay](https://www.arduino.cc/reference/en/language/functions/time/delay/)
-+ wrote a custom function
-+ used [LiquidCrystal_I2C library](https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/)
-+ used primitive values(for this project:const,bool,int,float,unsigned long)
++ Wrote a custom function
++ Used [LiquidCrystal_I2C library](https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/)
++ Used primitive values(for this project:const,bool,int,float,unsigned long)
 ### Hardware
 + [pwm pin](https://docs.arduino.cc/learn/microcontrollers/analog-output/)
 + lm35
